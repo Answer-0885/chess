@@ -140,7 +140,7 @@ main{
 }
 .hero-image .description{
   font-size: 1.4rem;
-  text-shadow: 1px 1px 1px rgb(226, 92, 14);
+  text-shadow: 1px 1px 1px rgb(255, 255, 255);
   color: #c07423;  
   /* background-color: rgba(140, 144, 144, 0.7); */
 
