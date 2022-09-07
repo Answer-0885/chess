@@ -6,9 +6,9 @@ body {
   font-size: 16px;
   /* text-shadow: 5px 5px 5px rgb(255, 255, 255); */
   line-height: 32px;
-  background: url("./Фон-3.jpeg" );
+  background: url("./30074.jpg" );
   background-repeat: no-repeat;
-  background-position:center;
+  background-position:center center;
   background-size:cover;
 }
 main{
@@ -21,9 +21,7 @@ main{
   padding: 0 16px;
   margin-left: 20px;
 }
-.container-2 {
-  /* background: rgba(108, 108, 118, 1); */
-}
+
 
 .page-header {
   margin: 0 0 40px;
@@ -37,8 +35,8 @@ main{
   margin-right: 20px;
   padding-bottom: 12px;
   padding-top: 10px;
-  color: #c07423;
-  text-shadow: 1px 1px 1px rgb(98, 94, 94);
+  color: #000000;
+  text-shadow: 1px 1px 1px rgb(255, 255, 255);
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -54,7 +52,8 @@ main{
  } */
 .page-header a:focus,
 .page-header a:hover {
-  filter: hue-rotate(240deg);
+  /* filter: hue-rotate(240deg); */
+  color:rgb(255, 255, 255);
 }
 
 .page-header a:active {
@@ -83,7 +82,7 @@ main{
   margin-right: 50px;
   width: 384px;
   height: 576px;
-  border: 5px solid #ac35b3;
+  border: 5px solid #918b91;
   border-radius: 10%;
 }
 .hero-image .container {
@@ -98,12 +97,12 @@ main{
   /* width: 928px; */
   margin-right: 10px;
   margin-bottom: 10px;
-  font-size: 90px;
+  font-size: 6rem;
   line-height: 120px;
   letter-spacing: -2px;
   font-weight: 400;
-  color: #ac35b3;
-  text-shadow: 1px 1px 1px rgb(255, 253, 253);
+  color: #090909;
+  text-shadow: 2px 2px 2px rgb(255, 253, 253);
   /* border:3px solid #8da2ed; */
   border-radius: 20%;
   font-style: italic;
@@ -131,17 +130,20 @@ main{
  
 
 .hero-image span{
-  color: #1662e4;;
-  text-shadow: 1px 1px 1px rgb(44, 34, 34);
-  font-size: 1.8rem;
+  color:  rgb(13,105,190);
+  text-shadow: 1px 1px 1px rgb(28, 28, 28);
+  background-color: rgba(45, 45, 47, 0.5);
+  font-weight: 500;
+  font-size: 1.4rem;
 }
 .hero-image .span2{
   color: #e40c49;
 }
 .hero-image .description{
-  font-size: 1.4rem;
-  text-shadow: 1px 1px 1px rgb(49, 31, 31);
-  color: #c07423;  
+  font-size: 1.6rem;
+  text-shadow: 1px 1px 1px rgb(255, 254, 254);
+  color: rgb(141, 138, 138);  
+  background-color: rgba(45, 45, 47, 0.5);
   /* background-color: rgba(140, 144, 144, 0.7); */
 
 }
@@ -181,8 +183,8 @@ main{
  .hero-image .name{
   text-align: center;
   width: 384px;
-  color: #ac35b3;
-
+  color: rgb(13,105,190);
+  text-shadow: 2px 1px 1px rgb(0, 0, 0);
   border-radius: 35%;
   font-size: 3rem;
   line-height: 3rem;
@@ -195,8 +197,12 @@ main{
 
  .download{
   text-decoration: none;
-  font-size: 1.5rem;
-  color: #1662e4;
+  font-size: 1.6rem;
+  color: rgb(13,105,190);
+  /* text-shadow: 1px 1px 1px rgb(255, 255, 255); */
+  background-color: rgba(45, 45, 47, 0.7);
+  font-weight: 500;
+  border-radius: 10px;
 }
 
 .download:before{
@@ -543,8 +549,8 @@ main{
   margin-right: 20px;
   padding-bottom: 10px;
   padding-top: 10px;
-  color: #c07423;
-  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+  color: #000000;
+  text-shadow: 2px 2px 2px rgb(255, 255, 255);
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -554,7 +560,8 @@ main{
 
 .page-footer a:focus,
 .page-footer a:hover {
-  filter: hue-rotate(240deg);
+  /* filter: hue-rotate(240deg); */
+  color:rgb(255, 255, 255);
 }
 
 .page-footer a:active {
