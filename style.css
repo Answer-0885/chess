@@ -6,9 +6,9 @@ body {
   font-size: 16px;
   /* text-shadow: 5px 5px 5px rgb(255, 255, 255); */
   line-height: 32px;
-  background: url("./30074.jpg" );
+  background: url("./Шахматы-фон-2.jpg" );
   background-repeat: no-repeat;
-  background-position:center center;
+  background-position:30% 30%;
   background-size:cover;
 }
 main{
@@ -101,7 +101,7 @@ main{
   line-height: 120px;
   letter-spacing: -2px;
   font-weight: 400;
-  color: #090909;
+  color: rgb(13,105,190);
   text-shadow: 2px 2px 2px rgb(255, 253, 253);
   /* border:3px solid #8da2ed; */
   border-radius: 20%;
@@ -130,9 +130,9 @@ main{
  
 
 .hero-image span{
-  color:  rgb(13,105,190);
+  color:  rgb(255, 255, 255);
   text-shadow: 1px 1px 1px rgb(28, 28, 28);
-  background-color: rgba(45, 45, 47, 0.5);
+  background-color: rgba(45, 45, 47, 0.7);
   font-weight: 500;
   font-size: 1.4rem;
 }
@@ -142,7 +142,7 @@ main{
 .hero-image .description{
   font-size: 1.6rem;
   text-shadow: 1px 1px 1px rgb(255, 254, 254);
-  color: rgb(246, 239, 239);  
+  color:  rgb(13,105,190);  
   background-color: rgba(45, 45, 47, 0.5);
   /* background-color: rgba(140, 144, 144, 0.7); */
 
@@ -184,7 +184,7 @@ main{
   text-align: center;
   width: 384px;
   color: rgb(13,105,190);
-  text-shadow: 2px 1px 1px rgb(0, 0, 0);
+  text-shadow: 1px 1px 1px rgb(255, 253, 253);
   border-radius: 35%;
   font-size: 3rem;
   line-height: 3rem;
@@ -198,7 +198,7 @@ main{
  .download{
   text-decoration: none;
   font-size: 1.6rem;
-  color: rgb(13,105,190);
+  color: rgb(255, 255, 255);
   /* text-shadow: 1px 1px 1px rgb(255, 255, 255); */
   background-color: rgba(45, 45, 47, 0.7);
   font-weight: 500;
